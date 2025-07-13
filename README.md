@@ -125,16 +125,3 @@ Flutter 앱 <------> Firebase Realtime Database <------> 라즈베리파이 (IoT
   * 앱 → Firebase → IoT → Firebase → 앱 의 전체 플로우 정상 동작
 
 ---
-
-
-
-필요하다면 이 내용을
-
-* **MS Word(.docx) / PDF**
-* **PPT(개발 발표용)**
-* **Notion용 마크다운**
-
-형식으로 바로 만들어 드릴 수 있습니다.
-
-필요한 포맷을 말씀해주세요 — 즉시 만들어드릴게요 🚀.
-(예: "PPT 5장으로 만들어줘" 또는 "Word 양식으로 해줘")
